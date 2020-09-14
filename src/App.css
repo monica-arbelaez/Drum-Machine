@@ -1,19 +1,20 @@
 body{
-  background: linear-gradient(90deg,#00bcd4,#4dd0e1,#b2ebf2 100%) !important;
+  background: linear-gradient(90deg,#00397a,#00093d,#040138 100%) !important;
 }
 h1{
   text-align: center;
   color: rgb(255, 255, 255);
+ padding-top: 100px;
 }
 
 #drum-machine{
   border: 2px solid #1f0700;
   border-radius: 15px;
-  margin-top:15%;
+  margin-top:5%;
   max-width: 75%;
   margin-left:auto;
   margin-right:auto;
-  background: linear-gradient(90deg,#c2185b,#e91e63,#f06292 100%);
+  background: linear-gradient(90deg,#c2185c94,#e91e62a1,#f06291a4 100%);
 }
 
 
