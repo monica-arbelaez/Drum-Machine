@@ -1,5 +1,5 @@
 body{
-  background: linear-gradient(90deg,#194d33,#388e3c,#388e3c 100%) !important;
+  background: linear-gradient(90deg,#00bcd4,#4dd0e1,#b2ebf2 100%) !important;
 }
 h1{
   text-align: center;
@@ -13,7 +13,7 @@ h1{
   max-width: 75%;
   margin-left:auto;
   margin-right:auto;
-  background: linear-gradient(90deg,#ff6f00,#ffa000,#ffc107 100%);
+  background: linear-gradient(90deg,#c2185b,#e91e63,#f06292 100%);
 }
 
 
